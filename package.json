@@ -1,0 +1,8 @@
+{
+  "name": "@cookbookdev/docusaurus-jsx-runtime-fallback-plugin",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "files": ["index.js"],
+  "license": "ISC"
+}
